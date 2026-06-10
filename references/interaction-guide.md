@@ -246,8 +246,8 @@
 ```
 问题: "Skill 作用域？"
 选项:
-- "项目级 - 存放在 ./.claude/skills/"
-- "全局级 - 存放在 ~/.claude/skills/"
+- "项目级 - 存放在 ./.Codex/skills/"
+- "全局级 - 存放在 ~/.Codex/skills/"
 ```
 
 ### 确认类
